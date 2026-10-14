@@ -6,7 +6,7 @@ No PyTorch. No TensorFlow. No pretrained models.
 
 ## What we're building
 
-![Our neural network layers](our-neurals-net-layers.png)
+![Our neural network layers](pic/our-neurals-net-layers.png)
 
 Our neural network will have three layers:
 
@@ -20,3 +20,15 @@ Our neural network will have three layers:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Project structure
+
+```
+Handwritten-Digit-Recognition-Model/
+├── data/          # MNIST dataset
+├── models/        # Trained model weights
+├── notebooks/     # Jupyter notebooks
+├── pic/           # Architecture diagrams
+│   └── our-neurals-net-layers.png
+└── README.md
+```
