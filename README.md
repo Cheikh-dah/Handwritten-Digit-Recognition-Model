@@ -25,10 +25,12 @@ Our neural network will have three layers:
 
 ```
 Handwritten-Digit-Recognition-Model/
+├── app.py
 ├── data/          # MNIST dataset
-├── models/        # Trained model weights
+├── models/        # Trained model weights and saved model
 ├── notebooks/     # Jupyter notebooks
 ├── pic/           # Architecture diagrams
 │   └── our-neurals-net-layers.png
+├── requirements.txt
 └── README.md
 ```
